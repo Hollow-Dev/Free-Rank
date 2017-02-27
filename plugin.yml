@@ -1,0 +1,7 @@
+name: FreeRanks
+main: me.jake.ranks.Main
+version: 1.0
+commands:
+   freerank:
+      description: Use this command to get the free Regular rank!
+      usage: /<command>
